@@ -7,7 +7,7 @@ import base64
 from datetime import datetime
 
 DATA_FILE = "passwords.json"
-MASTER_PASSWORD = "k2003"
+MASTER_PASSWORD = "your_password"
 
 
 # ---------------- ENCODE / DECODE ----------------
